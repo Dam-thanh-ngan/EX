@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteBanHang", "WebsiteBanHang\WebsiteBanHang.csproj", "{B63B70F7-36E1-4391-AD4E-0CB3BBFBE161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63B70F7-36E1-4391-AD4E-0CB3BBFBE161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63B70F7-36E1-4391-AD4E-0CB3BBFBE161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63B70F7-36E1-4391-AD4E-0CB3BBFBE161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63B70F7-36E1-4391-AD4E-0CB3BBFBE161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5525BF3-95CB-4085-B0D2-91A71B3739D7}
+	EndGlobalSection
+EndGlobal
